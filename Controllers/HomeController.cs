@@ -22,7 +22,7 @@ namespace AspDotNetCoreApp.Controllers
         {
             return View();
         }
-        
+        //Test2
         public IActionResult Privacy()
         {
             return View();
